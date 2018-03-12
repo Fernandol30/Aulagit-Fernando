@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"te",
+				"tentativa"
+			],
+			[
+				"ten",
+				"tentativas"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"hr",
+				"header\tTag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"sec",
+				"select\tTag"
+			],
+			[
+				"numero_",
+				"numero_1"
+			],
+			[
+				"pr",
+				"produto_3"
+			],
+			[
+				"pro",
+				"produto_2"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"nu",
+				"number_2"
+			],
+			[
+				"num",
+				"number_3"
+			],
+			[
+				"n",
+				"number_1"
+			],
+			[
+				"numer",
+				"number_1"
+			],
+			[
+				"bic",
+				"bicho_extimação"
+			],
+			[
+				"dat",
+				"data_nascimentos"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"sa",
+				"salarioall"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"soma",
+				"soma1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"ptbr\">\n<head> <meta charset=\"utf-8\">\n\t<title></title>\n</head>\n<body>\n<main>\n\t<section> <p>Em Kingsman – Serviço Secreto, Gary Eggsy (Taron Egerton) ficou órfão de pai ainda pequeno, e cresceu em uma família disfuncional. Sua mãe é maltratada pelo esposo beberrão, e a única válvula de escape é sair com os amigos. Após roubar um carro e ser preso, Harry Hart (Colin Firth), um antigo amigo de seu pai, o livra da cadeia, e vendo potencial o convida para treinar em uma agência secreta de superespiões a serviço do Reino Unido.\n\nÉ quando um grande plano que ameaça a vida de bilhões de pessoas vem à tona, e os agentes da organização Kingsman podem ser a única esperança.</p>  </section>\n\n\t<section> <p> A trama é permeada de muita ação, com lutas bem coreografadas e estilizadas, além de boas doses de humor. Ao contrário das produções modernas de agentes secretos, como os filmes de Jason Bourne, o seriado televisivo 24 Horas ou os novos 007 de Daniel Craig, aqui a produção assume um caráter mais descontraído, lembrando as produções clássicas de James Bond.\n\nA agência de espiões possui diversos equipamentos com tecnologias mirabolantes, seus agentes são gentlemen educados e bem vestidos, no melhor estilo inglês, e os vilões estereotipados com características únicas.</p>  </section>\n</main>\n  \t<nav>\n  \t\t<ul>\n  \t\t    <li>Kingsman – Serviço Secreto</li>\n  \t\t    <li>Duração: 129 minutos</li>\n  \t\t\t<li> Estúdio: 20th Century Fox</li>\n  \t\t\t<li>Direção: Matthew Vaughn </li>\n  \t\t\t<li>Elenco: Taron Egerton, Colin Firth, Samuel L. Jackson, Mark Strong, Michael Caine, Sofia Boutella, Jack Davenport, Mark Hamill. </li>\n  \t\t<ul>\n  \t</nav>\n</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 1684,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vai-na-web-05/Documentos/pablo/exercicio09",
+		"/home/vai-na-web-05/Documentos/pablo",
+		"/home/vai-na-web-05/Documentos/pablo/exercicio09"
+	],
+	"file_history":
+	[
+		"/home/vai-na-web-05/Documentos/Kelvin/desafioaula8.4.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/desafioaula8.2.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/desafioaula8.1.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/desafioaula8.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/desafiosorteio3.py",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 8fer/aula8.css",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 8fer/aula 8",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 8fer/aula8css",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 2 fer/untitled",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 1 fer/ola.html",
+		"/home/vai-na-web-05/Documentos/matheus/mt.css",
+		"/home/vai-na-web-05/Documentos/matheus/mt.html",
+		"/home/vai-na-web-05/Documentos/Kelvin/desafiosortei2.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/desafiosorteio.py",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 7fer/style.css",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 7fer/aula 7.html",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 7fer/untitled.html",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 7fer/html",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 6fer/stile.css",
+		"/home/vai-na-web-05/Documentos/yasmin/reinventandoig/style.css",
+		"/home/vai-na-web-05/Documentos/yasmin/reinventandoig/reinventandoig.html",
+		"/home/vai-na-web-05/Documentos/yasmin/relembrando.html",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 6fer/untitled.html",
+		"/home/vai-na-web-05/Documentos/yasmin/style.css",
+		"/home/vai-na-web-05/Documentos/yasmin/yasmin.html",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 4 fer/untitled.html",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 5 fer/untitled.html",
+		"/home/vai-na-web-05/Documentos/alan/desafio.html",
+		"/home/vai-na-web-05/Documentos/alan/desafio",
+		"/home/vai-na-web-05/Documentos/alan/alan",
+		"/home/vai-na-web-05/Documentos/alan",
+		"/home/vai-na-web-05/Documentos/Kelvin/Desafionota.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/DesafioTurno.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/Desafiodecrescente.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/desafioProduto.py",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 3fer/untitled.html",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 3fer/aula 4 fer/untitled.html",
+		"/home/vai-na-web-05/Documentos/Fernando/aula 3fer/bolo-limao2.jpg",
+		"/home/vai-na-web-05/Documentos/pablo/desafio04.html",
+		"/home/vai-na-web-05/Documentos/pablo/brownie de chocolate facil",
+		"/home/vai-na-web-05/Documentos/pablo/biografia bjork",
+		"/home/vai-na-web-05/Documentos/Kelvin/Desafiouser.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/Desafionumero.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/Desafiocasa.py",
+		"/home/vai-na-web-05/Documentos/Bia Mendes/desafio2 Bellus.html",
+		"/home/vai-na-web-05/Documentos/Bia Mendes/desafio1.sublime-workspace",
+		"/home/vai-na-web-05/Documentos/Bia Mendes",
+		"/home/vai-na-web-05/Documentos/Kelvin/DesafioURI74.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/Desafio4.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/DesafioURI014.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/DesafioIF.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/DesafioVoto.py",
+		"/home/vai-na-web-05/Documentos/aula 1 fer/ola.html",
+		"/home/vai-na-web-05/Documentos/aula 2 fer/untitled",
+		"/home/vai-na-web-05/Documentos/aula 1 fer/good_vibes_wallpaper_by_strobesound-d705f2f.jpg",
+		"/home/vai-na-web-05/Documentos/Bia Mendes/desafio1.html",
+		"/home/vai-na-web-05/Documentos/Bia Mendes/index.html",
+		"/home/vai-na-web-05/Documentos/Kelvin/DesafioURI01.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/Desafio3.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/def.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/index.html",
+		"/home/vai-na-web-05/Documentos/Kelvin/ola.py",
+		"/home/vai-na-web-05/Documentos/keno/ola.html",
+		"/home/vai-na-web-05/Documentos/Kelvin/desfio.py",
+		"/home/vai-na-web-05/Documentos/Kelvin/Desafio2.py",
+		"/home/vai-na-web-05/Documentos/Desafio3/cd/src/components/HelloWorld.vue",
+		"/home/vai-na-web-05/Documentos/cd/src/components/HelloWorld.vue"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"\">",
+			"<ol>",
+			">\n",
+			"</br>",
+			"radio",
+			"chekbox",
+			"sexo",
+			"civil",
+			"and",
+			"or",
+			"produto",
+			"número",
+			"o",
+			">",
+			"%.2f' %",
+			"Valor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

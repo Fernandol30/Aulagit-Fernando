@@ -1,0 +1,11 @@
+.Elemento{
+	width: 100px;
+	height:	100px;
+	margin: 20px;
+	padding: 20px;
+	background-color: blue;
+	border-style: solid;
+	border-color: pink;
+	border-width: 25px;
+}
+	
